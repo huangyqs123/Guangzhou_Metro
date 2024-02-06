@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1609039670 source:c:\users\m\desktop\codeblocks\metro\main.cpp
+	<iostream>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<conio.h>
+
